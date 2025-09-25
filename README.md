@@ -11,4 +11,6 @@ Seguir as instruções do menu interativo permitirá gravar usuários, projetos 
 Quando bem-sucedida, a ação gravará os dados para um arquivo **.txt** também no mesmo diretório. Esses arquivos de texto seguem organização CSV. 
 >**Obs.:** No momento da execução do **Main.class** no terminal, atente-se à *capitalização correta* dos nomes.
 
+Informações mais detalhadas podem ser vistas no [no detalhamento da estrutura](https://github.com/pyhanazumi/UAM-A3-CadstSimplesJava/blob/main/estrutura_do_programa.md).
+
 > Written with [StackEdit](https://stackedit.io/).
