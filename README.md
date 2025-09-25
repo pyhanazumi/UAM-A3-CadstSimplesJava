@@ -1,5 +1,5 @@
 # UAM-A3-CadstSimplesJava
-Programa simples de criação de cadastro de usuários, equipes e projetos feito em Java para atividade A3 para curso da Universidade Anhembi Morumbi
+Programa simples de criação de cadastro de usuários, equipes e projetos feito em Java para atividade A3 para curso da Universidade Anhembi Morumbi, com participação de Nelson, Paulo e Thalles.
 
 ## Como utilizar o código 
 As classes nesse requerem JDK versão 25, LTS de 16 de Setembro de 2025, e podem ser executadas tanto em terminal (ex.: Bash ou PowerShell) quanto em IDEs compatíveis, contanto que possuam a versão correta do JDK (ex.: VS Code, Eclipse, NetBean).
